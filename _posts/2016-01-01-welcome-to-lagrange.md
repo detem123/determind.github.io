@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to My first blog!"
+title: "Welcome to My first blog!" 
 author: "detem"
 categories: journal
 tags: [documentation,sample]
