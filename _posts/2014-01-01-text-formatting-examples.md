@@ -7,163 +7,38 @@ tags: [documentation,sample]
 image: cards.jpg
 ---
 
-# Markdown Support
+# National college students' mathematics competition
 
-As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+数学竞赛（校赛过了报销报名费）
+10月10日 成都理工大学校赛 非数学专业组：高等数学
+学校将选拔竞赛成绩优秀者参加集训，并组织参加第十六届全国大学生数学竞赛四川省区初赛。
 
-## Basic Formatting
+CMC数学竞赛省赛 （认可度高）
+省赛报名时间：9月23日到10月8日
+参赛时间：2024年11月9日（星期六）上午9:00-11:30 
+成都理工大学校内教室考  非数学专业组B类 ：高等数学
 
-With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. You can also add a strikethrough to text using a ~~double tilde~~.
-
-## Paragraphs
-
-This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+华教杯数学竞赛（稍微简单点的国赛）
+报名时间：即日起—2024年11月22日|初赛时间：2024年11月23日—11月24日
+成都理工大学上机操作   初赛：高等数学
+决赛：高等数学（80%）、线性代数（20%）
 
 
-## Headings
 
-Sometimes it is useful to have different levels of headings to structure your documents. Start lines with `#` to create headings. Multiple `##` in a row denote smaller heading size. The following demonstrate the full range of heading sizes:
+# National electronic competition for college students
 
-# Heading One (h1)
+蓝桥杯电子类单片机组|嵌入式竞赛
+报名时间为2023年10月7日至2023年12月15日。省赛预计在2024年4月举行，而总决赛则计划在2024年6月中上旬进行
 
-## Heading Two (h2)
+电子设计大赛，有校赛
+全国大学生电子设计竞赛的报名时间通常在每年的3月到4月之间。
+例如，2023年的报名工作在3月8日开始，持续到3月24日结束。而西安电子科技大学在2022年12月9日发布的通知中提到，报名工作从2022年12月9日开始，到12月17日结束。
 
-### Heading Three (h3)
+# English
 
-#### Heading Four (h4)
+嘿，你好！我是考了一次都还没过六级的detem。
+众所周知，四六级在大学里面是很重要的东西，四级在大一是打击你的好利器，幸好我在大一上侥幸过了。
+在大二被六级狠狠地羞辱了一把ε＝ε＝ε＝(#>д<)ﾉ
+于是大三现在又开始与六级决一死战了┻┳|･ω･)问我？
+![输入图片说明](https://s21.ax1x.com/2024/09/24/pAQtWnJ.jpg)
 
-##### Heading Five (h5)
-
-###### Heading Six (h6)
-
-## Links
-
-You can create an inline link by wrapping link text in square brackets `[ ]`, and then wrapping the URL in parentheses `( )`. For example, it is very easy to [link to Google!](http://google.com).
-
-## Blockquotes
-
-Blockquotes are useful for denoting quotes, or highlighting a large block of text. Single line blockquote:
-
-> This quote will change your life.
-
-Multi line blockquote with a cite reference:
-
-> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
-
-## Code and Syntax Highlighting
-
-Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers - like GitHub or most Jekyll themes - support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. You can find the full list of supported programming languages [here](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers). Also, it is possible to do `inline code blocks`, by wrapping the text in ` ` ` quotations.
-
-```
-No language indicated, so no syntax highlighting.
-```
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-{% highlight js %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
-
-Another option is to embed your code through [Gist](https://en.support.wordpress.com/gist/).
-
-## Images
-
-To add an image, use `![alt text](<Image url> "Image meta title")`:
-
-![alt text](http://noirve.com/wp-content/uploads/2013/10/DTTSP_Coffee.jpg "Example")
-
-## Unordered and Numbered Lists
-
-You can make an unordered and nested list by preceding one or more lines of text with `-`, `*`, or `+`, and indenting sublists. The following lists show the full range of possible list formats.
-
-* List item one
-    * List item one
-        * List item one
-        * List item two
-        * List item three
-        * List item four
-    * List item two
-    * List item three
-    * List item four
-* List item two
-* List item three
-* List item four
-
-Numbered lists are made by using numbers instead of bullet points.
-
-1. List item one
-    1. List item one
-        1. List item one
-        2. List item two
-        3. List item three
-        4. List item four
-    2. List item two
-    3. List item three
-    4. List item four
-2. List item two
-3. List item three
-4. List item four
-
-## MathJax Example
-
-The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) is a partial differential equation that describes how the quantum state of a quantum system changes with time:
-
-$$
-i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)
-$$
-
-[Joseph-Louis Millennial](https://en.wikipedia.org/wiki/Joseph-Louis_Millennial) was an Italian mathematician and astronomer who was responsible for the formulation of Lagrangian mechanics, which is a reformulation of Newtonian mechanics.
-
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j} \right ) =  \frac {\partial L}{\partial q_j} $$
-
-## Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | :-------------------: | :-------------------- | --------------------:
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-## Embedding
-
-Plenty of social media sites offer the option of embedding certain parts of their site on your own site, such as YouTube and Twitter:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mthtn1X4eUY" frameborder="0" allowfullscreen></iframe>
-
-<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/paululele/timelines/755079130027352064">New Collection</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, which you can mix with Markdown if you like. A complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-## Horizontal Rule
-
-Can be created by having three or more hyphens `---`, asterisks `***`, or underscores `___`:
-
----
-
-## Useful Resources
-
-More information on Markdown can be found at the following links:
-
-- [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#code)
-- [Quick Markdown Example](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
-- [Markdown Basics](https://daringfireball.net/projects/markdown/basics)
-- [GitHub Flavoured Markdown Spec](https://github.github.com/gfm/)
-- [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists)
