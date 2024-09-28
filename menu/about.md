@@ -8,11 +8,11 @@ My blog is only used to share personal study and life. I also hope my blog can h
 
 ### Getting Started
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): 考研六级和日常学习的规划
+[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): kao yan
 
 ### Example Content
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})：我的竞赛日程安排
+[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})：my compition
 
 ### Questions?
 
