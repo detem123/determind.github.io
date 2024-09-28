@@ -3,7 +3,7 @@ layout: post
 title: "Text Formatting Examples"
 author: "Paul Le"
 categories: journal
-tags: [documentation,sample]
+tags: [documentation,sample] 
 image: cards.jpg
 ---
 
