@@ -1,42 +1,27 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Welcome to My first blog!"
+author: "detem"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
-
-## Getting Started
-
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-## Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-## Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
-
-## More Jekyll!
-
-### Millennial
-
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.
-
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.
-
-### Portfolio Jekyll Theme
-
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
-
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
-
-### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+HELLO WORLD ！！！
+能来到这个网站看到我的第一篇Blog，怎么说呢？这既是我们之间的运气，又是我的荣幸hhh。
+回想这两天被这个Blog已经折磨得不成人形了，应该是在前天又或许是大前天我看到了别人的博客。
+我突然灵感一现想了想我能不能搞个自己的Blog，于是说干就干。
+我打开B站搜索“个人博客”
+铺天盖地的各种IT男的搭建Blog方法，其实无一例外都是先搭建一个基本的框架然后再添砖加瓦。
+最开始是看codesheep的视频，他的视频风格偏向小白简单通俗易懂，但是却需要你能够直接上手操作，而且其中很多问题都需要你自己去探索，所以在看了不到半小时我又改看另外一个了。
+后来在慢慢了解搭建博客的过程中，我逐渐了解了许多人在评论区里面分享他们自己的博客，我既惊叹于许多人在他们的博客里面分享着自己的事业蒸蒸日上，又惋惜于一部分人因为域名到期导致博客不能进行做下去。
+现在想起昨晚上朋友圈的文案:这是属于我们博客人的十年之约。  
+突然感觉压力山大，我不知道这十年我是否能够坚持下去
+但是我知道我写这个博客的初衷就是为了记录我自己的青春，更为了能够让以后的自己不断反思吧。
+其实我也在知乎还有CSDN以及很多人的论坛或者是个人博客中看到过这样的说法，就是说现在的短视频时代，大家都忙于赶路，很少有人能够停下来去看看“路边的风景”，
+其次现在中国的各种社交平台都充斥着各种低趣味的东西，很难让人能够静下心来提升自己。
+心里面其实有很多话，但是临近饭点^_^，当下的感慨昨晚上通宵到两三点也只摸出个皮毛，而今天有点灵感就十分钟搞出来。
+这不禁让我反思：或许，当自己陷入困境或者难题时，放下而不是执着于一时的努力是不是会达到更好的效果呢？
+最后，
+此博客用来经历我的大学生活
+更用来缅怀我不羁的青春岁月啊！
