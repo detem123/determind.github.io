@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Getting Started" 
 author: "detem"
 categories: journal
 tags: [documentation,sample]
